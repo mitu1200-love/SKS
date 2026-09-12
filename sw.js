@@ -1,6 +1,6 @@
 /* 透かしスタジオ — service worker
    Bump CACHE_VERSION whenever you change index.html or any local asset. */
-const CACHE_VERSION = 'v1';
+const CACHE_VERSION = 'v2';
 const PRECACHE = `watermark-studio-precache-${CACHE_VERSION}`;
 const RUNTIME = `watermark-studio-runtime-${CACHE_VERSION}`;
 
